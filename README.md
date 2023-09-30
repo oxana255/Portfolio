@@ -20,4 +20,4 @@
   <li>Задача №2. Собрать визуализации основных бизнес-показателей, а также исследовать данные о пользователях и их поведении</li>
 </ol>
 
-> <a href="https://github.com/Skyproportfolio/data-analytics-5month/blob/main/Проект%20№1.xlsx">Ссылка на проект</a>
+> <a href="https://github.com/oxana255/Portfolio/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201..xlsx">Ссылка на проект</a>
